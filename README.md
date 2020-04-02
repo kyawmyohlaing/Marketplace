@@ -17,3 +17,5 @@ add SKIP_PREFLIGHT_CHECK=true
       "address": "0xf8ACec8c2D9b9f52BCF34C60eF11b66f1d547CdC",
       "transactionHash": "0x78dd401fd9a2ffe6c84861e9ee2c90ea2fbf5cbb22b1f4071bb3c2edf8a9bae1"
     }
+
+# truffle networks 
