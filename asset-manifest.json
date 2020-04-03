@@ -1,7 +1,7 @@
 {
   "main.css": "/Marketplace/static/css/main.ee236c0f.chunk.css",
-  "main.js": "/Marketplace/static/js/main.3d7ce9db.chunk.js",
-  "main.js.map": "/Marketplace/static/js/main.3d7ce9db.chunk.js.map",
+  "main.js": "/Marketplace/static/js/main.b8e74db9.chunk.js",
+  "main.js.map": "/Marketplace/static/js/main.b8e74db9.chunk.js.map",
   "static/css/1.ce60917e.chunk.css": "/Marketplace/static/css/1.ce60917e.chunk.css",
   "static/js/1.1c5f1d5a.chunk.js": "/Marketplace/static/js/1.1c5f1d5a.chunk.js",
   "static/js/1.1c5f1d5a.chunk.js.map": "/Marketplace/static/js/1.1c5f1d5a.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/main.ee236c0f.chunk.css.map": "/Marketplace/static/css/main.ee236c0f.chunk.css.map",
   "static/css/1.ce60917e.chunk.css.map": "/Marketplace/static/css/1.ce60917e.chunk.css.map",
   "index.html": "/Marketplace/index.html",
-  "precache-manifest.2d8b12fb8f9f66758574a303eca7b2f4.js": "/Marketplace/precache-manifest.2d8b12fb8f9f66758574a303eca7b2f4.js",
+  "precache-manifest.deddb6a4396fc556a5738a23e88eb30d.js": "/Marketplace/precache-manifest.deddb6a4396fc556a5738a23e88eb30d.js",
   "service-worker.js": "/Marketplace/service-worker.js"
 }
